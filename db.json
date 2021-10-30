@@ -1,0 +1,8 @@
+{ "products" : [
+  { "name": "Doritos", "price" : 2.50, "location": 3340, "descripcion" : "Doritos Originales, los mejores", "stock" : 43},
+  { "name": "Papas Fritas", "price" : 3, "location": 3340, "descripcion" : "Hacen muy mal a la salud", "stock" : 55},
+  { "name": "Pizza", "price" : 4, "location": 3350, "descripcion" : "La de Guerrín, la mejor", "stock" : 44},
+  { "name": "Chocolate", "price" : 1.50, "location": 3388, "descripcion" : "El mejor chocolate suizo", "stock" : 60},
+  { "name": "Cafe Chico", "price" : 1.50, "location": 3340, "descripcion" : "Café colombiano extra fuerte", "stock" : 92},
+  { "name": "Cereal", "price" : 3, "location": 3350, "descripcion" : "Mejor que las Zucaritas", "stock" : 21}
+]}
