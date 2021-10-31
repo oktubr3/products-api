@@ -1,8 +1,8 @@
 { "products" : [
-  { "name": "Doritos", "price" : 2.50, "location": 3340, "descripcion" : "Doritos Originales, los mejores", "stock" : 43},
-  { "name": "Papas Fritas", "price" : 3, "location": 3340, "descripcion" : "Hacen muy mal a la salud", "stock" : 55},
-  { "name": "Pizza", "price" : 4, "location": 3350, "descripcion" : "La de Guerrín, la mejor", "stock" : 44},
-  { "name": "Chocolate", "price" : 1.50, "location": 3388, "descripcion" : "El mejor chocolate suizo", "stock" : 60},
-  { "name": "Cafe Chico", "price" : 1.50, "location": 3340, "descripcion" : "Café colombiano extra fuerte", "stock" : 92},
-  { "name": "Cereal", "price" : 3, "location": 3350, "descripcion" : "Mejor que las Zucaritas", "stock" : 21}
+  { "name": "Doritos", "price" : 2.50, "location": 3340, "descripcion" : "Doritos Originales, los mejores", "stock" : 43, "imagen":"https://raw.githubusercontent.com/oktubr3/img/main/Doritos.png"},
+  { "name": "Papas Fritas", "price" : 3, "location": 3340, "descripcion" : "Hacen muy mal a la salud", "stock" : 55, "imagen":"https://raw.githubusercontent.com/oktubr3/img/main/papas_fritas.jpg"},
+  { "name": "Pizza", "price" : 4, "location": 3350, "descripcion" : "La de Guerrín, la mejor", "stock" : 44, "imagen":"https://raw.githubusercontent.com/oktubr3/img/main/porcion-pizza.jpg"},
+  { "name": "Chocolate", "price" : 1.50, "location": 3388, "descripcion" : "El mejor chocolate suizo", "stock" : 60, "imagen":"https://raw.githubusercontent.com/oktubr3/img/main/chocolate.png"},
+  { "name": "Cafe Chico", "price" : 1.50, "location": 3340, "descripcion" : "Café colombiano extra fuerte", "stock" : 92, "imagen":"https://raw.githubusercontent.com/oktubr3/img/main/cafechico.jpg"},
+  { "name": "Cereal", "price" : 3, "location": 3350, "descripcion" : "Mejor que las Zucaritas", "stock" : 21, "imagen":"https://raw.githubusercontent.com/oktubr3/img/main/cereal.jpg"}
 ]}
